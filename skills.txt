@@ -1,4 +1,4 @@
 SQL - Create, Delete, Drop, Insert Into, Select, From, Where, Join;
 Dev Tools - Google Chrome, FireFox;
 Tools - HTTP, JSON, GitBash, VPN, ADB;
-Language - Python.
+Language - Python
