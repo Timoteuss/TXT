@@ -9,4 +9,3 @@ Dev Tools: Google Chrome, FireFox;
 Tools: XML, JSON, GitBash, Postman, DBeaver - PostgreSQL, Charles, Android Studio, JMeter, Fiddler;
 
 Languages: Python, JavaScript.
-
