@@ -1,4 +1,12 @@
-SQL - Create, Delete, Drop, Insert Into, Select, From, Where, Join;
-Dev Tools - Google Chrome, FireFox;
-Tools - HTTP, JSON, GitBash, VPN, ADB;
-Language - Python.
+Skills.
+
+SQL: Create, Delete, Drop, Insert Into, Select, From, Join, Union, Where, Order by;
+
+Terminal: pwd, mkdir, touch, cd, ls -la, vim, mv, cp, find, tail -f, head, less, date, $curl, $chmod+x;
+
+Dev Tools: Google Chrome, FireFox;
+
+Tools: XML, JSON, GitBash, Postman, DBeaver - PostgreSQL, Charles, Android Studio, JMeter, Fiddler;
+
+Languages: Python, JavaScript.
+

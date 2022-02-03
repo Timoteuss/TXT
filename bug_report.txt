@@ -1,6 +1,6 @@
 Title: Can't create new file in reopsitory, when you click on the create button. 
 Steps to reproduce: 1 Step: Open github.com;
-                   2 Step: Click on your name in the left part of screen;
-                   3 Step: Click on the create button. 
+                    2 Step: Click on your name in the left part of screen;
+                    3 Step: Click on the create button. 
 Actual resoult: New file is not create.
 Expected resoult: New file will be created.

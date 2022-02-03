@@ -1,5 +1,11 @@
+Preferences.
+
 Film - Interstellar;
+
 Serial - Sherlock;
+
 Food - Shaverma;
+
 Season - Winter;
+
 Country to visit - Czech.
