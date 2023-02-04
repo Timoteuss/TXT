@@ -1,7 +1,7 @@
-Full name - Shchukin Timofey Sergeevich;
-Age - 27;
-Number of pets - 0;
-Future desired salary - 1000$.
+Full name - Shchukin Timofey;
+Age - 29;
+Profession - QA Engineer;
+Future desired salary - 2000$.
 
 
 
